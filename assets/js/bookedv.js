@@ -1,0 +1,3 @@
+/* <![CDATA[ */
+var booked_wc_variables = { "prefix": "booked_wc_", "ajaxurl": "https:\/\/towny.axiomthemes.com\/wp-admin\/admin-ajax.php", "i18n_confirm_appt_edit": "Are you sure you want to change the appointment date? By doing so, the appointment date will need to be approved again.", "i18n_pay": "Are you sure you want to add the appointment to cart and go to checkout?", "i18n_mark_paid": "Are you sure you want to mark this appointment as \"Paid\"?", "i18n_paid": "Paid", "i18n_awaiting_payment": "Awaiting Payment", "checkout_page": "https:\/\/towny.axiomthemes.com\/checkout\/" };
+/* ]]> */

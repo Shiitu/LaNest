@@ -1,0 +1,2 @@
+/* <![CDATA[ */
+var TRX_DEMO_STORAGE = { "ajax_url": "https:\/\/towny.axiomthemes.com\/wp-admin\/admin-ajax.php", "ajax_nonce": "286094b896", "site_url": "https:\/\/towny.axiomthemes.com", "user_logged_in": "0", "msg_ajax_error": "Invalid server response! Try again later.", "tabs_delay": "3000" };
